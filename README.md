@@ -36,7 +36,7 @@ Enter your credentials inside the [subaru_link_service.py](https://github.com/kr
 ```bash
     SUBARU_USERNAME=""
     SUBARU_PASSWORD=""
-    SUBARU_DEVICE_ID="" # For device, use an 10 digit number. Ex: timestamp
+    SUBARU_DEVICE_ID="" # For device_id, use any 10 digit number. Ex: timestamp
     SUBARU_DEVICE_NAME="subarulink"
     SUBARU_VIN=""
     SUBARU_PIN=""
