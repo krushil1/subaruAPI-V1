@@ -6,6 +6,10 @@ Subaru API built with [subarulink package](https://github.com/G-Two/subarulink).
 ## Credits
 Used code from [aws-subaru-api](https://github.com/chrisroedig/aws-subaru-api) repository to convert [chrisroedig's](https://github.com/chrisroedig) repository into a Flask app.
 
+## Todo
+-Create integration to start engine with climate custom presets. <br />
+-Apply a API key to secure the Flask server and use environment variables instead of hard-coding the credentials
+
 ## Installation
 
 Clone the project
